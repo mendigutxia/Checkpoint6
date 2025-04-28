@@ -1,4 +1,4 @@
-# Cree una clase de Python llamada nombre_usuario que use el método init y cree un nombre de nombre_usuario y una contraseña.
+# Cree una clase de Python llamada Usuario que use el método init y cree un nombre de nombre_usuario y una contraseña.
 # Crea un objeto usando la clase.
 
 class Usuario:
