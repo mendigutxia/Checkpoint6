@@ -1,4 +1,4 @@
-# Checkpoint nº 5: teoría
+# Checkpoint nº 6: teoría
 
 ## 1. ¿Para qué usamos Clases en Python?
 Antes de responder a esta pregunta, voy a poner un poco de contexto, explicando qué es un paradigma de programación, concepto básico que se aplica a todos los lenguajes de programación y que es necesario para responder a la pregunta.  
